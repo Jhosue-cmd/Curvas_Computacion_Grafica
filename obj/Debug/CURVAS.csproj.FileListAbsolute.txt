@@ -1,0 +1,10 @@
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\bin\Debug\CURVAS.exe.config
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\bin\Debug\CURVAS.exe
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\bin\Debug\CURVAS.pdb
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.csproj.AssemblyReference.cache
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.Curvas.view.frmBezier.resources
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.Properties.Resources.resources
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.csproj.GenerateResource.cache
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.csproj.CoreCompileInputs.cache
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.exe
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.pdb
