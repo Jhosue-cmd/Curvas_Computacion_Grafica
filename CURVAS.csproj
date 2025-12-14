@@ -71,6 +71,12 @@
     <EmbeddedResource Include="Curvas\view\frmBezier.resx">
       <DependentUpon>frmBezier.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Curvas\view\frmBSpline.resx">
+      <DependentUpon>frmBSpline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhome.resx">
+      <DependentUpon>frmhome.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

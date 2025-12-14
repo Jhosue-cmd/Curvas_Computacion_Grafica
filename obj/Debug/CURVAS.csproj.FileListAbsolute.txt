@@ -8,3 +8,6 @@ C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.csproj.GenerateR
 C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.csproj.CoreCompileInputs.cache
 C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.exe
 C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.pdb
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.exe.config
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.Curvas.view.frmBSpline.resources
+C:\Users\NW\Desktop\Computacion Grafica\CURVAS\obj\Debug\CURVAS.frmhome.resources

@@ -17,7 +17,7 @@ namespace CURVAS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBezier());
+            Application.Run(new frmhome());
         }
     }
 }
